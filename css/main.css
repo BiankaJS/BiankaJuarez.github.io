@@ -33,7 +33,7 @@ nav .nav-right-section a{
   color: white;
 }
 nav .nav-right-section .menu{
-  background-image: url("/image/dots-menu.png");
+  background-image: url("image/dots-menu.png");
   width: 25px;
   height: 25px;
   background-size: contain;
